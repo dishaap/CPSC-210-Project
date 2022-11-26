@@ -1,0 +1,12 @@
+{
+    "trips": [{
+        "duration": 4,
+        "name": "Disha",
+        "accommodation": "a",
+        "location": "V",
+        "checklist": "model.Checklist@5e481248",
+        "id": 1,
+        "mode of travel": "FLIGHT"
+    }],
+    "name": "Disha's workroom"
+}

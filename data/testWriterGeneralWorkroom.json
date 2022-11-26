@@ -1,0 +1,17 @@
+{
+    "trips": [
+        {
+            "duration": 0,
+            "name": "B",
+            "checklist": "model.Checklist@26aa12dd",
+            "id": 4
+        },
+        {
+            "duration": 0,
+            "name": "B",
+            "checklist": "model.Checklist@3fd7a715",
+            "id": 4
+        }
+    ],
+    "name": "My work room"
+}
